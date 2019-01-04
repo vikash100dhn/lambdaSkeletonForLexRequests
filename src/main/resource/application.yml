@@ -1,0 +1,5 @@
+datasource:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://<<DB-URL>>:3306/<<DBNAME>>
+  username: ######### 
+  password: #######
